@@ -2,6 +2,8 @@
 
 A searchable rolodex app built with React
 
+View the demo https://dohill06.github.io/Monsters-Rolodex/
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
